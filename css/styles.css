@@ -1139,7 +1139,7 @@ label{
         justify-content: center;
         margin: 0 auto;
     }
-    /* .menu-toggle{
+    .mobile-menu-icon{
         color: var(--black);
-    } */
+    }
 }
