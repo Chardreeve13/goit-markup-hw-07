@@ -1427,7 +1427,18 @@ label{
         column-gap: 24px;
        padding: 72px;
         /* gap: 72px 24px; */
-}
+    }
+
+    .online-app-list{
+        display:flex;
+        list-style:none;
+        flex-wrap:wrap;
+        column-gap:24px;
+        row-gap:48px;
+        align-items:center;
+        justify-content: flex-start;
+    }
+
     .footer-container{
         display: flex;
         gap: 72px;
